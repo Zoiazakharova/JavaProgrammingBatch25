@@ -1,5 +1,7 @@
 package day04_Variables;
 
+import day13_String.StringIntro;
+
 public class KgToPounds {
 
     public static void main(String[] args) {
